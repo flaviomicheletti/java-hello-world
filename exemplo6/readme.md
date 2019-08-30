@@ -1,6 +1,6 @@
 # Exemplo 6
 
-Duas classes, dois métodos `main`, pode isso Aranaldo ?
+Duas classes, dois métodos `main`, pode isso Arnaldo ?
 
     # compilar
     javac Trial.java
